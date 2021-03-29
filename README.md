@@ -2,38 +2,6 @@
 
 ----------------------------
 
-<style type="text/css">
-pre {
-    color: #1A1B1C;
-    background: #000000;
-    border: 1px solid #ddd;
-    border-left: 3px solid #f36d33;
-    page-break-inside: avoid;
-    font-family: Courier New;
-    font-size: 14px;
-    line-height: 1.6;
-    margin-bottom: 1.6em;
-    max-width: 100%;
-    padding: 1em 1.5em;
-    display: block;
-    white-space: pre-wrap;
-/* Since CSS 2.1 */
-    white-space: -moz-pre-wrap;
-/* Mozilla, since 1999 */
-    white-space: -pre-wrap;
-/* Opera 4-6 */
-    white-space: -o-pre-wrap;
-/* Opera 7 */
-    word-wrap: break-word;
-/* Internet Explorer 5.5+ */
-}
-
-img { 
-   border:2px solid #1A1B1C;
-}
-
-</style>
-
 <dl>
 <dd style=text-align:justify>
 This tool has been created while i was preparing for the CTP/OSCE certification. It generates nasm friandly assembly instructions of a customized Ascii Subtraction Encoder. 
