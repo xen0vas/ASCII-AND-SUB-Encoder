@@ -1,3 +1,19 @@
+/*
+* Title: Shellcode Custom ASCII Subtraction Encoder 
+* Date: 29.03.2021
+* Author: Xenofon Vassilakopoulos  
+* github : @xen0vas
+* Tested on: 
+*
+* - Linux kali 4.19.0-kali5-686-pae #1 SMP Debian 4.19.37-1kali1 (2019-05-09) i686 GNU/Linux
+*
+* gcc -m32 sub.c -o sub
+* 
+*  Usage : ./sub -s \x41\xff\x41\x41 -b \x0a\x0d\x2f\x3a\x3f\x40\x80\x81\x82
+*
+*
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
