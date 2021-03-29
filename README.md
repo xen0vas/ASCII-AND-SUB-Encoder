@@ -19,7 +19,6 @@ The development of this tool is based on the description of the Ascii Subtractio
 
 ```
 gcc sub.c -o sub
-
 ```
 
 #### Usage
