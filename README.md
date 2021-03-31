@@ -17,9 +17,18 @@ The development of this tool is based on the description of the Ascii Subtractio
 
 ----------------
 
+For x86 architectures run 
+
 ```
 gcc sub.c -o sub
 ```
+
+For x86_64 architectures run 
+
+```
+gcc -m32 sub.c -o sub
+```
+
 
 #### Usage
 
