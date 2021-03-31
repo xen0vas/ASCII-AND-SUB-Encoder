@@ -5,7 +5,6 @@
 * github : @xen0vas
 * Tested on: 
 *
-* - Linux kali 4.19.0-kali5-686-pae #1 SMP Debian 4.19.37-1kali1 (2019-05-09) i686 GNU/Linux
 *
 * gcc -m32 sub.c -o sub
 * 
