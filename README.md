@@ -237,7 +237,7 @@ In order to generate our encoded payload eliminating the bad characters, we shou
 ```
 <br><br>
 
-<img src="./images/badchars.gif" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="800" height="600">
+<img src="./images/badchars.gif" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="950" height="760">
 <br><br>
 
 
