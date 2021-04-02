@@ -2,8 +2,8 @@
 
 ----------------------------
 
-![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-yellow)    ![license](https://img.shields.io/github/license/xen0vas/ASCII-AND-SUB-Encoder
-)   ![openissues](https://img.shields.io/github/issues/xen0vas/ASCII-AND-SUB-Encoder) ![closedissues](https://img.shields.io/github/issues-closed-raw/xen0vas/ASCII-AND-SUB-Encoder
+![Language](https://img.shields.io/badge/Language-C-yellow) ![license](https://img.shields.io/github/license/xen0vas/ASCII-AND-SUB-Encoder
+) ![openissues](https://img.shields.io/github/issues/xen0vas/ASCII-AND-SUB-Encoder) ![closedissues](https://img.shields.io/github/issues-closed-raw/xen0vas/ASCII-AND-SUB-Encoder
 ) ![forks](https://img.shields.io/github/forks/xen0vas/ASCII-AND-SUB-Encoder
 ) ![stars](https://img.shields.io/github/stars/xen0vas/ASCII-AND-SUB-Encoder
 ) ![last_commit](https://img.shields.io/github/last-commit/xen0vas/ASCII-AND-SUB-Encoder
