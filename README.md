@@ -89,13 +89,9 @@ The following screenshot shows the Sub encoder in action
 
 In case we want to save the instructions direclty to a nasm file we can use the following command 
 
-~~~~~
-
-`
+<pre style="white-space: pre-wrap !important;">
 ./sub -s \x66\x81\xca\xff\x0f\x42\x52\x6a\x02\x58\xcd\x2e\x3c\x05\x5a\x74\xef\xb8\x57\x30\x30\x54\x89\xd7\xaf\x75\xea\xaf\x75\xe7\xff\xe7 -b \x00 > test.nasm
-`
-
-~~~~~~
+</pre>
 
 Now we can compile the assembly code 
 
