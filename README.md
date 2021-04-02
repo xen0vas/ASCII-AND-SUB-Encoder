@@ -1,4 +1,4 @@
-## ASCII Subtraction Encoder
+## ![AND-SUB](https://https://github.com/xen0vas/ASCII-AND-SUB-Encoder/blob/main/images/lernae_hydra.ico) ASCII Subtraction Encoder
 
 ----------------------------
 
