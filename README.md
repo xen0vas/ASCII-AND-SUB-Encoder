@@ -2,6 +2,14 @@
 
 ----------------------------
 
+![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-yellow)    ![license](https://img.shields.io/github/license/xvass/ASCII-AND-SUB-Encoder
+)   ![openissues](https://img.shields.io/github/issues/xen0vas/ASCII-AND-SUB-Encoder) ![closedissues](https://img.shields.io/github/issues-closed-raw/xvass/ASCII-AND-SUB-Encoder
+) ![forks](https://img.shields.io/github/forks/xen0vas/ASCII-AND-SUB-Encoder
+) ![stars](https://img.shields.io/github/stars/xen0vas/ASCII-AND-SUB-Encoder
+) ![version](https://img.shields.io/badge/version-1.0.75-brightgreen) ![last_commit](https://img.shields.io/github/last-commit/xvass/ASCII-AND-SUB-Encoder
+) ![beta](https://img.shields.io/badge/status-beta-lightgrey) ![counter](https://enisjijudcevtuq.m.pipedream.net)
+
+
 
 This tool has been created while i was preparing for the CTP/OSCE certification from offensive security. It generates nasm friandly assembly instructions of a customized Ascii Subtraction Encoder. The development of this tool is based on the description of the Ascii Subtraction Encoder logic as explained at the following blog post from Vello Security
 
