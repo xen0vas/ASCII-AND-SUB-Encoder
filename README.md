@@ -10,7 +10,7 @@ This tool has been created while i was preparing for the CTP/OSCE certification.
 [Vello Security - Carving Shellcode using restrictive character sets](https://vellosec.net/blog/exploit-dev/carving-shellcode-using-restrictive-character-sets/)
 
 
-#### Compilation
+### Compilation
 
 ----------------
 
@@ -27,7 +27,7 @@ gcc -m32 sub.c -o sub
 ```
 
 
-#### Usage
+### Usage
 
 -----------------------
 
@@ -59,7 +59,7 @@ The following screenshot shows the usage information
 <img src="./images/usage.png" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="770" height="750">
 <br><br>
 
-#### Examples
+### Examples
 
 
 Now, lets say we want to encode the following egghunter shellcode
