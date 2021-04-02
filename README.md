@@ -6,7 +6,7 @@
 )   ![openissues](https://img.shields.io/github/issues/xen0vas/ASCII-AND-SUB-Encoder) ![closedissues](https://img.shields.io/github/issues-closed-raw/xvass/ASCII-AND-SUB-Encoder
 ) ![forks](https://img.shields.io/github/forks/xen0vas/ASCII-AND-SUB-Encoder
 ) ![stars](https://img.shields.io/github/stars/xen0vas/ASCII-AND-SUB-Encoder
-) ![version](https://img.shields.io/badge/version-1.0.75-brightgreen) ![last_commit](https://img.shields.io/github/last-commit/xvass/ASCII-AND-SUB-Encoder
+) ![version](https://img.shields.io/badge/version-1.0.75-brightgreen) ![last_commit](https://img.shields.io/github/last-commit/xen0vas/ASCII-AND-SUB-Encoder
 ) ![beta](https://img.shields.io/badge/status-beta-lightgrey) ![counter](https://enisjijudcevtuq.m.pipedream.net)
 
 
