@@ -1,4 +1,4 @@
-## Ascii Subtraction Encoder
+## ASCII Subtraction Encoder
 
 ----------------------------
 
