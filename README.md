@@ -86,7 +86,7 @@ In case we dont have bad chars, we can at least use the <code>-b</code> option t
 The following screenshot shows the Sub encoder in action 
 </dd></dl>
 
-<img src="./images/suband.gif" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="800" height="600">
+<img src="./images/suband.gif" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="750" height="600">
 <br><br>
 
 
