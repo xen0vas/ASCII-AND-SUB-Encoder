@@ -7,7 +7,7 @@
 ) ![forks](https://img.shields.io/github/forks/xen0vas/ASCII-AND-SUB-Encoder
 ) ![stars](https://img.shields.io/github/stars/xen0vas/ASCII-AND-SUB-Encoder
 ) ![last_commit](https://img.shields.io/github/last-commit/xen0vas/ASCII-AND-SUB-Encoder
-) ![beta](https://img.shields.io/badge/status-beta-lightgrey) ![counter](https://enisjijudcevtuq.m.pipedream.net)
+) ![counter](https://enisjijudcevtuq.m.pipedream.net)
 
 
 
