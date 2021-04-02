@@ -60,7 +60,7 @@ Args:
 The following screenshot shows the usage information
 </dd></dl>
 
-<img src="./images/usage.png" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="800" height="750">
+<img src="./images/usage.png" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="770" height="750">
 <br><br>
 
 #### Examples
