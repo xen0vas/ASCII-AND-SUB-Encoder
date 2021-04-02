@@ -3,7 +3,7 @@
 ----------------------------
 
 
-This tool has been created while i was preparing for the CTP/OSCE certification. It generates nasm friandly assembly instructions of a customized Ascii Subtraction Encoder. The development of this tool is based on the description of the Ascii Subtraction Encoder logic as explained at the following blog post from Vello Security
+This tool has been created while i was preparing for the CTP/OSCE certification from offensive security. It generates nasm friandly assembly instructions of a customized Ascii Subtraction Encoder. The development of this tool is based on the description of the Ascii Subtraction Encoder logic as explained at the following blog post from Vello Security
 
 
 [Vello Security - Carving Shellcode using restrictive character sets](https://vellosec.net/blog/exploit-dev/carving-shellcode-using-restrictive-character-sets/)
