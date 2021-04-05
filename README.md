@@ -8,7 +8,7 @@
 )
 
 
-<img src="./images/lernaea.webp" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="70" height="150">
+<img src="./images/lernaea.webp" style="display:block;margin-left:auto;margin-right:auto;border:1px solid #1A1B1C;" width="170" height="270">
 
 
 <p align="justify">This tool has been created while i was preparing for the CTP/OSCE certification. It generates nasm friandly assembly instructions of a customized Ascii Subtraction Encoder. The development of this tool is based on the description of the Ascii Subtraction Encoder logic as explained at the following blog post from Vello Security</p>
