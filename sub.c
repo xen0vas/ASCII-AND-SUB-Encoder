@@ -1,5 +1,5 @@
 /*
-* Title: Linux/x86 - Shellcode Custom ASCII Subtraction Encoder 
+* Title: Linux/x86 - Custom Shellcode ASCII And-Sub Encoder 
 * Date: 29.03.2021
 * Author: Xenofon Vassilakopoulos  
 * github : https://github.com/xen0vas/ASCII-AND-SUB-Encoder
