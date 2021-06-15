@@ -2,8 +2,7 @@
 * Title: Shellcode Custom ASCII Subtraction Encoder 
 * Date: 29.03.2021
 * Author: Xenofon Vassilakopoulos  
-* github : @xen0vas
-* Tested on: 
+* github : https://github.com/xen0vas/ASCII-AND-SUB-Encoder
 *
 *
 * gcc -m32 sub.c -o sub
