@@ -5,7 +5,7 @@
 ![Language](https://img.shields.io/badge/Language-C-yellow) ![license](https://img.shields.io/github/license/xen0vas/ASCII-AND-SUB-Encoder) 
 ![last_commit](https://img.shields.io/github/last-commit/xen0vas/ASCII-AND-SUB-Encoder)
 
-<p align="justify">This tool has been created while i was preparing for the offensive security CTP course leading to legacy OSCE certification. The tool generates nasm friandly assembly instructions of a customized Ascii Subtraction Encoder. The development of this tool is based on the description of the Ascii Subtraction Encoder logic as explained at the following blog post from Vello Security</p>
+<p align="justify">This tool has been created while i was preparing for the offensive security CTP course leading to legacy OSCE certification. The tool generates nasm friendly assembly instructions of a customized Ascii Subtraction Encoder. The development of this tool is based on the description of the Ascii Subtraction Encoder logic as explained at the following blog post from Vello Security</p>
 
 
 [Vello Security - Carving Shellcode using restrictive character sets](https://vellosec.net/blog/exploit-dev/carving-shellcode-using-restrictive-character-sets/)
